@@ -1,2 +1,2 @@
 # Shared-Memory-chat
-Basic chat, using shared memor with signals.
+Basic chat, using shared memory with signals.
